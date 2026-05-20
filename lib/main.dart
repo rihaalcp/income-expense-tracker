@@ -1,4 +1,4 @@
-import 'package:exinapp/madel/transaction_model.dart';
+import 'package:exinapp/model/transaction_model.dart';
 import 'package:flutter/material.dart';
 
 void main() {
